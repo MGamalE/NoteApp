@@ -4,10 +4,10 @@ This app example to cover [Android Architecture Components](https://developer.an
 
 # Feature
 
--list of notes
--add new note
--delete note
--update note
+- list of notes
+- add new note
+- delete note
+- update note
 
 # Structure 
 
