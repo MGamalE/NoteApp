@@ -18,7 +18,11 @@ This app example to cover [Android Architecture Components](https://developer.an
 - [AsyncTask](https://developer.android.com/reference/android/os/AsyncTask)-enables proper and easy use of the UI thread.
 
 # Screenshot
-![screenshot_20190306-020306](https://user-images.githubusercontent.com/31111546/53831608-dd76cd80-3f8d-11e9-995e-833fe55d58dc.png)![screenshot_20190306-015115](https://user-images.githubusercontent.com/31111546/53831652-fc755f80-3f8d-11e9-8aa4-ae81f36373f6.png)
+
+Note Home             |  Add Note
+:-------------------------:|:-------------------------:
+![screenshot_20190306-020306](https://user-images.githubusercontent.com/31111546/53831608-dd76cd80-3f8d-11e9-995e-833fe55d58dc.png) | ![screenshot_20190306-015115](https://user-images.githubusercontent.com/31111546/53831652-fc755f80-3f8d-11e9-8aa4-ae81f36373f6.png)
+
 ![screenshot_20190306-020347](https://user-images.githubusercontent.com/31111546/53831695-13b44d00-3f8e-11e9-9dc0-cc0cf3747335.png)
 
 
